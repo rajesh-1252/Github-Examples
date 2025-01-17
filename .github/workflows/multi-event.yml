@@ -1,3 +1,4 @@
+name: multi-events
 on:
   push:
     branches:
